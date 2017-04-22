@@ -1,7 +1,7 @@
 <?php
-define('DB_SERVER', 'your-azure-server');
-define('DB_USERNAME', 'your-username');
-define('DB_PASSWORD', 'your-password');
-define('DB_DATABASE', 'your-database');
+define('DB_SERVER', 'login-test1');
+define('DB_USERNAME', 'azure');
+define('DB_PASSWORD', 'password');
+define('DB_DATABASE', 'mysql');
 $db = mysqli_connect(DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE);
 ?>
