@@ -2,7 +2,7 @@
 <head>
     <meta charset="utf-8">
     <title>Welcome</title>
-    <link rel="stylesheet" href="/login-test/CSS/style.css" type="text/css" />
+    <link rel="stylesheet" href="Assets/CSS/style.css" type="text/css" />
 </head>
 
 <body>
